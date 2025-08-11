@@ -1,2 +1,2 @@
 # SQL_homeworks
-Tasks of SQL mpdule in MAAB academy in august/2025 
+Tasks of SQL module in MAAB academy in august/2025 
